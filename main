@@ -1,0 +1,58 @@
+<html>
+
+<head> <link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet"></head>
+  
+<header id="header">
+  Cantu
+  </header>
+
+<nav id="nav-bar">
+  <a href="#product-name" class="nav-link">TXTR</a>
+  <a href="#results" class="nav-link">Results</a>
+  <a href= "#shop" class="nav-link">Shop</a>
+</nav>
+
+ <main> 
+  
+  <div id="products-scrolling">
+  <img id="main-img" src="https://images.pexels.com/photos/430207/pexels-photo-430207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"> </img>
+  </div>
+  <br><br>
+
+<iframe width="562" height="311" id="video" src="https://www.youtube.com/embed/mcU85pFGY1U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</header>
+
+<div id=email_div>
+Sign up for blah blah blah coupon?
+
+<form action="https://www.freecodecamp.com/email-submit" method="get" target="_blank" id="form">
+  <input id="email"
+type="email"     name="email"     placeholder="email address">
+<input type="submit" id="submit" value="submit">
+</form>
+</div>
+
+<div>
+<section id="product-name">Product Name
+  <li>TXTR 1</li>
+  <li>TXTR 2</li>
+  <li>TXTR 3</li>
+  <li>TXTR 4</li>
+  <li>TXTR 5</li>
+  </section>
+
+
+
+
+
+
+
+<section id="results">Resuts
+  </section>
+<section id="shop">Shop
+</section>
+</div>
+
+</main>
+
+</html>
