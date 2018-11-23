@@ -1,0 +1,58 @@
+<style>
+{}:root {
+  background: white;
+  text-align: center;
+  font-size: 22px;
+}
+#header {
+  font-family: "Comfortaa", times; 
+  font-size: 68px;
+  color: orange;
+  width: 1000px;
+  position: relative;
+  left: 130px;
+  
+}
+
+nav {
+  font-size: 22px;
+  font-family: "Comfortaa";
+  word-spacing: 100px;
+  margin: 4px;
+  padding: 4px;
+    
+}
+
+.nav-link {
+  color: white;
+}
+
+#nav-bar {
+  -webkit-animation: blinking-nav 3s infinite;
+}
+
+@-webkit-keyframes blinking-nav {
+0%, 30% {
+    background-color: white;
+    border: 3px solid white;
+  }
+  30%, 100% {
+    background-color: black;
+    border: 3px solid black;
+  }
+
+#main-img {
+    width: 1000px;
+  height: 400px;
+  object-fit: cover;
+    
+}
+
+section {
+  color: white;
+  
+
+}
+
+
+</style>
