@@ -96,7 +96,7 @@ section {
   
   
 
-<div id="products">
+<div class="product_divs" id="products1">
 
  <section class="products" id="TXTR1">Curls + Coils Defining Cream</section>
 
@@ -109,6 +109,9 @@ section {
 
  <section class="products" id="TXTR4">ACV + Tea Tree Soothing Shampoo</section>
 
+</div>
+
+<div class="product_divs" id="products2">
 
  <section class="products" id="TXTR5">Oil + Vitamins Scalp Saver</section>
  
@@ -118,11 +121,8 @@ section {
  
  <section class="products" id="TXTR7">Curls + Waves Defining Gel</section>
 
-
-
  <section id="shop">
-  <h3 id="shop_text"> <a href="">Shop</a>
-  </h3>
+    <a href="">Shop</a>
  </section>
 
 
