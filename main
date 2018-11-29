@@ -100,32 +100,53 @@ section {
 
 <p>TXTR.</p>
 
- <section class="products" id="TXTR1">Defining Cream</section>
+ <section class="products" id="TXTR1">Defining Cream
+  <img alt="Defining Cream" src="https://github.com/maddiegascar/cantu/blob/master/defining%20cream.jpg?raw=true">
+  </img>
+ </section>
 
 
- <section class="products" id="TXTR2">Moisture Masque</section>
+ <section class="products" id="TXTR2">Moisture Masque
+ <img alt="Moisture Masque" src="https://github.com/maddiegascar/cantu/blob/master/moisturemask.jpg?raw=true">
+ </img>
+ </section>
 
 
- <section class="products" id="TXTR3">Leave-In + Rinse Out Conditioner</section>
+ <section class="products" id="TXTR3">Hydrating Conditioner
+  <img alt="Hydrating Conditioner" src="https://github.com/maddiegascar/cantu/blob/master/hydratingconditioner.jpg?raw=true">
+  </img>
+ </section>
 
 
- <section class="products" id="TXTR4">Soothing Shampoo</section>
+ <section class="products" id="TXTR4">Soothing Shampoo
+  <img alt="Soothing Shampoo" src="https://github.com/maddiegascar/cantu/blob/master/soothingshampoo.jpg?raw=true">
+  </img>
+ </section>
 
 </div>
 
 <div class="product_divs" id="products2">
 
- <section class="products" id="TXTR5">Scalp Saver</section>
+ <section class="products" id="TXTR5">Scalp Saver
+  <img alt="Scalp Saver" src="https://github.com/maddiegascar/cantu/blob/master/scalpsaver.jpg?raw=true">
+  <img>
+ </section>
  
  
- <section class="products" id="TXTR6">Control Paste</section>
+ <section class="products" id="TXTR6">Control Paste
+  <img alt="Control Paste" src="https://github.com/maddiegascar/cantu/blob/master/controlpaste.jpg?raw=true">
+  </img>
+ </section>
  
  
- <section class="products" id="TXTR7">Defining Gel</section>
+ <section class="products" id="TXTR7">Defining Gel
+  <img alt="Defining Gel" src="https://github.com/maddiegascar/cantu/blob/master/defininggel.jpg?raw=true">
+  </img>
+ </section>
  
  <section class="products" id="TXTR7">Cleansing Oil Shampoo
- <img alt="Cleansing Oil Shampoo" src="https://github.com/maddiegascar/cantu/blob/master/cleansingoilshampoo.jpg?raw=true">
- </img>
+  <img alt="Cleansing Oil Shampoo" src="https://github.com/maddiegascar/cantu/blob/master/cleansingoilshampoo.jpg?raw=true">
+  </img>
  </section>
 
  <section id="shop">
