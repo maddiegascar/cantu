@@ -68,7 +68,7 @@ section {
 
 <nav id="nav-bar">
   <a href="#about" class="nav-link">About</a>
-  <a href="#products" class="nav-link">Products</a>
+  <a href="#products1" class="nav-link">Products</a>
   <a href= "#shop" class="nav-link">Shop</a>
 </nav>
  
