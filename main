@@ -65,14 +65,15 @@ section {
 <body>
 
 <header id="header">
- 
- <h1 id="Cantu">Cantu</h1>
- 
+
 <nav id="nav-bar">
   <a href="#about" class="nav-link">About</a>
   <a href="#products" class="nav-link">Products</a>
   <a href= "#shop" class="nav-link">Shop</a>
 </nav>
+ 
+ <h1 id="Cantu">Cantu</h1>
+
 
 </header>
 
