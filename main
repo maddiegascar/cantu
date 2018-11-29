@@ -10,8 +10,8 @@
   </header>
 
 <nav id="nav-bar">
-  <a href="#product-name" class="nav-link">TXTR</a>
-  <a href="#results" class="nav-link">Results</a>
+  <a href="#about" class="nav-link">About</a>
+  <a href="#products" class="nav-link">Products</a>
   <a href= "#shop" class="nav-link">Shop</a>
 </nav>
 
@@ -25,11 +25,54 @@
   
   </div>
   
+  
+  
   <br><br>
   
+  
+  
+  <div id="about">
+  
+  <h3>ABOUT CANTU'S TXTR LINE</h3>
+  
+  </div>
+  
+  
+  
   <div id="video">
-
     <iframe width="562" height="311" id="video" src="https://www.youtube.com/embed/mcU85pFGY1U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </div>
+  
+  
+  
+
+<div id="products">
+
+ <section id="TXTR1"></section>
+
+
+ <section id="TXTR2"></section>
+
+
+ <section id="TXTR3"></section>
+
+
+ <section id="TXTR4"></section>
+
+
+ <section id="TXTR5"></section>
+
+
+
+ <section id="shop">
+   <a href="">Shop</a>
+ </section>
+
+
+</div>
+
+
+
 
 
 <div id="coupon">
@@ -49,42 +92,6 @@ Sign up for blah blah blah coupon?
 
 </div>
 
-
-
-
-
-<div id="products">
-
-
-
-<section id="TXTR1"></section>
-
-
-
-<section id="TXTR2"></section>
-
-
-
-<section id="TXTR3"></section>
-
-
-
-<section id="TXTR4"></section>
-
-
-
-<section id="TXTR5"></section>
-
-
-
-<section id="shop">
-
-<a href="">Shop</a>
-
-</section>
-
-
-</div>
 
 </main>
 
