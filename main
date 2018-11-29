@@ -5,7 +5,7 @@
 <link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
 
 <style>
-{}:root {
+:root {
   background: white;
   text-align: center;
   font-size: 22px;
@@ -98,28 +98,32 @@ section {
 
 <div class="product_divs" id="products1">
 
- <section class="products" id="TXTR1">Curls + Coils Defining Cream</section>
+<p>TXTR.</p>
+
+ <section class="products" id="TXTR1">Defining Cream</section>
 
 
- <section class="products" id="TXTR2">Strengthen + Restore Moisture Mask</section>
+ <section class="products" id="TXTR2">Moisture Masque</section>
 
 
  <section class="products" id="TXTR3">Leave-In + Rinse Out Conditioner</section>
 
 
- <section class="products" id="TXTR4">ACV + Tea Tree Soothing Shampoo</section>
+ <section class="products" id="TXTR4">Soothing Shampoo</section>
 
 </div>
 
 <div class="product_divs" id="products2">
 
- <section class="products" id="TXTR5">Oil + Vitamins Scalp Saver</section>
+ <section class="products" id="TXTR5">Scalp Saver</section>
  
  
- <section class="products" id="TXTR6">Shine + Sculpt Control Paste</section>
+ <section class="products" id="TXTR6">Control Paste</section>
  
  
- <section class="products" id="TXTR7">Curls + Waves Defining Gel</section>
+ <section class="products" id="TXTR7">Defining Gel</section>
+ 
+ <section class="products" id="TXTR7">Cleansing Oil Shampoo</section>
 
  <section id="shop">
     <a href="">Shop</a>
