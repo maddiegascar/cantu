@@ -114,7 +114,8 @@ section {
 
 
  <section id="shop">
-   <a href="">Shop</a>
+  <h3 id="shop_text"> <a href="">Shop</a>
+  </h3>
  </section>
 
 
@@ -126,7 +127,9 @@ section {
 
 <div id="coupon">
 
+<h3 id="sign_up">
 Sign up for blah blah blah coupon?
+</h3>
 
 
 <!-- UPDATE ACTION LINK? JS --!>
