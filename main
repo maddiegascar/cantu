@@ -98,19 +98,25 @@ section {
 
 <div id="products">
 
- <section id="TXTR1"></section>
+ <section class="products" id="TXTR1">Curls + Coils Defining Cream</section>
 
 
- <section id="TXTR2"></section>
+ <section class="products" id="TXTR2">Strengthen + Restore Moisture Mask</section>
 
 
- <section id="TXTR3"></section>
+ <section class="products" id="TXTR3">Leave-In + Rinse Out Conditioner</section>
 
 
- <section id="TXTR4"></section>
+ <section class="products" id="TXTR4">ACV + Tea Tree Soothing Shampoo</section>
 
 
- <section id="TXTR5"></section>
+ <section class="products" id="TXTR5">Oil + Vitamins Scalp Saver</section>
+ 
+ 
+ <section class="products" id="TXTR6">Shine + Sculpt Control Paste</section>
+ 
+ 
+ <section class="products" id="TXTR7">Curls + Waves Defining Gel</section>
 
 
 
