@@ -2,6 +2,9 @@
 
 <head> <link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet"></head>
  
+ 
+<body>
+
 <header id="header">
   Cantu
   </header>
@@ -12,10 +15,12 @@
   <a href= "#shop" class="nav-link">Shop</a>
 </nav>
 
+
+
  <main> 
   
   <div id="products-scrolling">
-  
+ 
     <img id="main-img" src="https://images.pexels.com/photos/430207/pexels-photo-430207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"> </img>
   
   </div>
@@ -83,4 +88,7 @@ Sign up for blah blah blah coupon?
 
 </main>
 
+
+
+</body>
 </html>
