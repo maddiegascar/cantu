@@ -1,7 +1,7 @@
 <html>
 
 <head> <link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet"></head>
-  
+ 
 <header id="header">
   Cantu
   </header>
@@ -15,12 +15,17 @@
  <main> 
   
   <div id="products-scrolling">
-  <img id="main-img" src="https://images.pexels.com/photos/430207/pexels-photo-430207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"> </img>
+  
+    <img id="main-img" src="https://images.pexels.com/photos/430207/pexels-photo-430207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"> </img>
+  
   </div>
+  
   <br><br>
+  
+  <div id="video">
 
-<iframe width="562" height="311" id="video" src="https://www.youtube.com/embed/mcU85pFGY1U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</header>
+    <iframe width="562" height="311" id="video" src="https://www.youtube.com/embed/mcU85pFGY1U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 <div id=email_div>
 Sign up for blah blah blah coupon?
