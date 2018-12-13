@@ -34,8 +34,8 @@ nav {
 
 .product_divs {
   background-color: rgba(255, 0, 0, 0.2);
-  height: 1000px;
-  width: 1000px;
+  width: 500px;
+  height: auto;
   border-radius: 25px;
   text-align: center;
 }
