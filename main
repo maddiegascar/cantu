@@ -1,45 +1,102 @@
 <html>
+  
+<head>
 
-<head> 
 
-<link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
+ <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Comfortaa"/>
+
 
 <style>
-:root {
+
+
+
+body { 
+  background-image: url('https://4vector.com/i/free-vector-trees-vector-material_093590_tree03.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: right; 
+}
+
+header {
+  position: fixed;
+  width: 100%;
+  display: flex;
   background: white;
-  text-align: center;
-  font-size: 22px;
 }
-#header {
-  font-family: "Comfortaa", times; 
-  font-size: 68px;
+
+nav#nav-bar {
+   /* margin: 20px;
+    padding: 20px; */
+}
+
+h1#Cantu {
+  font-family: "Comfortaa", "times";
+  font-size: 78px;
   color: orange;
-  width: 1000px;
-  position: relative;
-  left: 130px;
-  
 }
 
-nav {
-  font-size: 22px;
-  font-family: "Comfortaa";
-  word-spacing: 100px;
-  margin: 4px;
-  padding: 4px;
+
+a.nav-link {
+  color: black;
+  text-decoration: none;
+  font-size: 28px;
 }
 
-.nav-link {
-  color: white;
+/*
+img#tree {
+  display: flex;
+  justify-content: right;
+}
+*/
+
+main {
+  display: flex;
+  flex-direction: column;
 }
 
-.product_divs {
-  background-color: rgba(255, 0, 0, 0.2);
-  width: 750px;
+div.body_divs {
+  background-color: black;
+  width: auto;
   height: auto;
   border-radius: 25px;
   text-align: center;
+  display: flex;
 }
 
+
+div.body_divs#about_div{
+  flex-direction: column;
+  background-color: green;
+  margin-top: 200px;
+}
+
+div#video {
+ width: 50%;
+  
+}
+
+
+p.about_ps {
+  margin: auto;
+  text-align: center;
+  font-size: 16px;
+}
+
+p.about_ps#natural {
+  font-family: INSERT CURSIVE FONT?;
+  font-size: 22px;
+}
+
+p.product_title {
+  color: black;
+  
+}
+
+  img.product_img {
+    width: 250px;
+  }
+
+/*
 #nav-bar {
   -webkit-animation: blinking-nav 3s infinite;
 }
@@ -59,54 +116,74 @@ nav {
   height: 400px;
   object-fit: cover;    
 }
-
+*/
 section {
   color: white;
 }
 
+  section.products {
+    font-size: INSERT FONT SIZE;
+  }
+
+div#coupon {
+  text-align: center;
+}
+
 </style>
 </head>
- 
- 
- 
- 
+
+
+
+
 <body>
-
-<header id="header">
-
-<nav id="nav-bar">
+  
+<header>
+  
+  
+ <nav id="nav-bar">
   <a href="#about" class="nav-link">About</a>
+   <br>
   <a href="#products1" class="nav-link">Products</a>
+   <br>
   <a href= "#shop" class="nav-link">Shop</a>
 </nav>
- 
- <h1 id="Cantu">Cantu</h1>
-
-
+  
+   <h1 id="Cantu">Cantu
+    </h1>
+  
 </header>
 
+<main>
+  <!-- not sure if i need this
+  <img id="tree" url="https://4vector.com/i/free-vector-trees-vector-material_093590_tree03.jpg"></img>
 
-
- <main> 
+-->
   
-  <div id="about">
   
-  <h3>ABOUT CANTU'S TXTR LINE</h3>
   
+  <div  class="body_divs" id="about_div">
+    
+    <p class="about_ps" id="natural">For natural hair. </p>
+    <br>
+    <p class="about_ps" id="description">
+    Cantu's TXTR line is made with shea butter for real, authentic  beauty. 
+    <br>
+    Embrace your curly, coily or wavy hair with Cantu.</p> 
   </div>
   
   
   
-  <div id="video">
+  
+  
+  <div class="body_divs" id="video">
     <iframe width="562" height="311" id="video" src="https://www.youtube.com/embed/mcU85pFGY1U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </div>
   
   
   
 
-<div class="product_divs" id="products1">
+<div class="body_divs" id="products1">
 
-<p>TXTR.</p>
 
  <section class="products" id="TXTR1">
  <p class="product_title">Defining Cream</p>
@@ -137,9 +214,10 @@ section {
 
 </div>
 
-<div class="product_divs" id="products2">
+<div class="body_divs" id="products2">
 
  <section class="products" id="TXTR5">
+   
  <p class="product_title">Scalp Saver</p>
   <img class="product_img" alt="Scalp Saver" src="https://github.com/maddiegascar/cantu/blob/master/scalpsaver.jpg?raw=true">
   <img>
@@ -172,7 +250,7 @@ section {
 
 </div>
 
-
+</main>
 
 
 
@@ -181,12 +259,8 @@ section {
 <h3 id="sign_up">
 Sign up for blah blah blah coupon?
 </h3>
-
-
-<!-- UPDATE ACTION LINK? JS --!>
-
-
-<form action="https://www.freecodecamp.com/email-submit" method="get" target="_blank" id="form">
+  
+  <form action="https://www.freecodecamp.com/email-submit" method="get" target="_blank" id="form">
 
 <input id="email" type="email" name="email" placeholder="email address">
 <input type="submit" id="submit" value="submit">
@@ -195,8 +269,7 @@ Sign up for blah blah blah coupon?
 
 </div>
 
-
-</main>
+<!-- UPDATE ACTION LINK? JS -->
 
 
 
